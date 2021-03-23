@@ -1,0 +1,222 @@
+
+
+img{
+    margin-left: 300px;
+    margin-bottom: -20px;
+    padding: 0 px;
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: center;
+}
+h1{
+    margin-left: 5px;
+    padding: 0 px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    text-align: center;
+}
+span{
+    color: blue;
+}
+span.redText{
+    color: red;
+}
+span.cyanText{
+    color: cyan;
+    padding: 0px;
+}
+div.container{
+    width: 970px;
+    min-height: 1000px;
+    margin: 0px auto;
+} 
+h2{
+    padding: 15px 0px 0px 15px;
+    background-color: rgb(85, 133, 171);
+    margin: 0px 0px 50px 0px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    div.container div.sideNav{ 
+        width: 270px;
+        min-height: 300px;
+        padding-top: 10px;
+        margin-top: -50px;
+        background-color: white;
+        display: inline-block; 
+        vertical-align: top; 
+    }
+        div.sideNav p{
+            margin: 10px 0px 20px 5px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+        }
+        div.sideNav div{
+            width: 270px;
+            border: 1px solid grey;
+            margin-top: 30px;
+        }
+        div.sideNav a{
+        text-decoration: none;
+        color: white;
+        display: block;
+        padding: 10px;
+        text-align: center;
+        background-color: rgb(85, 133, 171);
+        margin: 10px 20px 10px 20px;
+        border-radius: 3px;
+        border: 1px solid grey;
+        }
+        div.sideNav a.orrangeButton{
+            color: white;
+            padding: 10px;
+            background-color: orange;
+            border: 1px solid grey;
+            margin: 10px 20px 10px 20px;
+            border-radius: 3px;
+         
+        }
+    div.container div.sideNavButtom{ 
+        width: 270px;
+        min-height: 450px;
+        padding-top: 30px;
+        margin-top: -715px;
+        margin-left: -274px;
+        background-color: yellow;
+        background-image: url("images/ad_background.png");
+        display: block;
+    }
+        div.sideNavButtom img{
+            margin: 10px 0px 10px 45px;
+        }
+        div.sideNavButtom h3{
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+        div.sideNavButtom a{
+            color: white;
+            padding: 10px;
+            background-color: skyblue;
+            margin: 10px 20px 10px 20px;
+            border-radius: 3px;
+            border: 1px solid grey;
+            text-align: center;
+            display: block;
+            text-decoration: none;
+        }
+        div.sideNavButtom span{
+        font-size: 10px;
+        color: white;
+        text-decoration: none;
+        }
+    div.container div.content{ 
+            width: 696px;
+            min-height: 750px;
+            display: inline-block;
+            vertical-align: top;
+            margin-top: -50px;
+     }
+        div.content img{
+            width: 40px;
+            height: 40px;
+            display: inline-block;
+            vertical-align: middle;
+        }
+        div.content p{
+            font-size: 10px;
+            color: grey;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+            margin: -40px 5px;
+            display: inline-block;
+        }
+        div.content h2{
+            color: white;
+            padding: 0px;
+            background-color: white;
+            margin: 0px -15px 0px 0px;
+            display: block;
+        }
+        #dnsIcon{
+            width: 25px;
+            height: 25px;
+            display: inline-block;
+            vertical-align: middle;
+            margin: 0px 100px 100px 0px;
+        }
+        #dnsText{
+            display: inline-block;
+            vertical-align: middle;
+            margin: 0px 140px 100px -100px;
+        }
+        #contact{
+            text-align: right;
+            display: inline-block;
+            vertical-align: top;
+            margin: -125px -12px;
+            border: none;
+            padding: -10px;
+        }
+        div.content div{
+            width: 690px;
+            border: 1px solid grey;
+            margin-top: -70px;
+        }
+    div.container div.contentText{
+        margin-top: -670px;
+        margin-left: 280px;
+        width: 690px;
+        min-height: 500px;
+        display: inline-block;
+        vertical-align: top;
+    }
+        div.contentText p{
+            color: black;
+        }
+        div.contentText ul li ol li{
+            color: black;
+        }
+        div.contentText h3{
+            color: blue;
+        }
+        div.contentText span{
+            color: cyan;
+        }
+        #bold{
+            color: black;
+            font-weight: bold;
+        }
+        #imgServerClient{
+            width: 300px;
+            height: 140px;
+            text-align: center;
+            margin: 5px 170px;   
+        }
+        div.contentText div.footer{
+            width: 680px;
+            height: 250px;
+            border-top: 10px solid skyblue;
+            border-left: 10px solid skyblue;
+            border-right: 10px solid skyblue;
+            display: block;
+            
+        }
+            div.footer img{
+                width: 140px;
+                height: 143px;
+                margin: 3px;
+                display: block;
+            }    
+            div.footer p{ 
+                vertical-align: top;
+                font-size: 10x;
+                margin: 0px;
+            }    
+            div.footer h3{
+                display: inline-block;
+                vertical-align: top;
+                text-align: right;
+            } 
